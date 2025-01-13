@@ -32,6 +32,12 @@ The dataset used in this project is from [Kaggle Shopping Trends Dataset](https:
    jupyter notebook Shopping_Trends_Analysis.ipynb
    ```
 
+## Results:-
+![Shopping Trends Analysis](Images/img-1.png)
+![Shopping Trends Analysis](Images/img-2.png)
+![Shopping Trends Analysis](Images/img-3.png)
+
+
 ## Future Work
 - Integrate real-time data.
 - Enhance prediction accuracy with advanced models.
